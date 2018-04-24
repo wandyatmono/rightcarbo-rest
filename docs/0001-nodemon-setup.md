@@ -30,7 +30,7 @@ nodemon adalah sebuah utility untuk memonitor perubahan pada source code kita, s
         
     Tetapi dapat dijalankan dengan command:
 
-	    $	nodemon <app>
+	    $ nodemon <app>
 
 	Maka 'server-refresh' akan dilakukan secara automatis saat source-code berubah.
 

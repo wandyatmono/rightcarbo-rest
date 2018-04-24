@@ -131,8 +131,8 @@ Membuat Dumb Server
 	Dengan browser, masukkan url http://localhost:3000/
 	Jika REST Server jalan, hasilnya akan terlihat seperti berikut ini
 
-    ![Gambar 0000-0: REST first running on console](./figures/0000-0-working.png)<br>
-    <center><i>Gambar 0000-0: REST first running on console</i></center>
+    ![Gambar 0000-0: REST first running on browser](./figures/0000-0-working.png)<br>
+    <center><i>Gambar 0000-0: REST first running on browser</i></center>
 
 3.  Commit
 
